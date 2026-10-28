@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+pytest-cache-files-*/
+node_modules/
+dist/
+coverage/
+.vite/
+.streamlit/secrets.toml
+.env
+*.log
+frontend/.env.local
+.DS_Store
